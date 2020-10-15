@@ -49,7 +49,7 @@ table {
 }
 /* @media queries */
 
-@media only screen and (max-width: 450px)
+@media only screen and (max-width: 800px)
 {
    main {
      flex-flow: column wrap;	
